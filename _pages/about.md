@@ -16,11 +16,15 @@ I am looking for self-motivated PhD, master and undergraduate students to join m
 Education
 ======
 2006/09–2010/07: University of Electronic Science and technology, Bachelor
+
 2020/09-2011/09: University College London, Master
+
 2011/09-2015/02: University College London, PhD
 
 Working Experience
 ======
 2015/02-2017/09: University College London, Postdoc
+
 2017/09-2019/10: Disney Research Los Angeles, Associate Research Scientist
+
 2019/11-Present: Shanghai Jiao Tong University, Associate Professor
