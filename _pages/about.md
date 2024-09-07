@@ -11,7 +11,7 @@ I am currently an associate professor in [John Hopcroft Center](https://jhc.sjtu
 
 My research interests include AR/VR, avatars/characters, 3D animations, HCI, and computer graphics. Previously, I was an Associate Research Scientist in AR/VR at Disney Research Los Angeles. I received the B.Sc. degree in communication and information engineering from Purdue/UESTC in 2010 and the Ph.D. degree in computer graphics from the University College London (UCL) in 2015. I has served as Associate Editor of the International Journal of Human Computer Studies, and a regular member of IEEE virtual reality program committees.
 
-I am looking for self-motivated PhD, master and undergraduate students to join my research group. My E-mail address is whitneypanye@sjtu.edu.cn. Please contact me if you are interested.
+I am looking for self-motivated PhD, master and undergraduate students to join my research group. My E-mail address is **whitneypanye@sjtu.edu.cn**. Please contact me if you are interested.
 
 Education
 ======
