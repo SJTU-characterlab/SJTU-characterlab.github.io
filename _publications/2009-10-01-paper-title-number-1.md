@@ -3,7 +3,7 @@ title: "Preserving gaze direction in teleconferencing using a camera array and a
 collection: publications
 category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: '<br/><img src='/images/500x300.png'>'
+excerpt: "<br/><img src='/images/500x300.png'>"
 date: 2012-10-15
 venue: '2012 3DTV-Conference: The True Vision-Capture, Transmission and Display of 3D Video (3DTV-CON)'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
