@@ -1,13 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am currently an associate professor in [John Hopcroft Center](https://jhc.sjtu.edu.cn/) of [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
+
+My research interests include AR/VR, avatars/characters, 3D animations, HCI, and computer graphics. Previously, I was an Associate Research Scientist in AR/VR at Disney Research Los Angeles. I received the B.Sc. degree in communication and information engineering from Purdue/UESTC in 2010 and the Ph.D. degree in computer graphics from the University College London (UCL) in 2015. I has served as Associate Editor of the International Journal of Human Computer Studies, and a regular member of IEEE virtual reality program committees.
+
+I am looking for self-motivated PhD, master and undergraduate students to join my research group. My E-mail address is whitneypanye@sjtu.edu.cn. Please contact me if you are interested.
 
 A data-driven personal website
 ======
