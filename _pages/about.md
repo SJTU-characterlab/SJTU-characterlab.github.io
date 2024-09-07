@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an associate professor in [John Hopcroft Center](https://jhc.sjtu.edu.cn/) of [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
+I am currently an associate professor in [John Hopcroft Center](https://jhc.sjtu.edu.cn/) of Shanghai Jiao Tong University.
 
 My research interests include AR/VR, avatars/characters, 3D animations, HCI, and computer graphics. Previously, I was an Associate Research Scientist in AR/VR at Disney Research Los Angeles. I received the B.Sc. degree in communication and information engineering from Purdue/UESTC in 2010 and the Ph.D. degree in computer graphics from the University College London (UCL) in 2015. I has served as Associate Editor of the International Journal of Human Computer Studies, and a regular member of IEEE virtual reality program committees.
 
