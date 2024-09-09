@@ -20,8 +20,8 @@ The main contents of this course include: Introduction to Computer Graphics, Ren
 
 Prerequisites: Linear Algebra, Advanced Mathematics, Algorithms, Data Structure, Probability Theory, etc.
 
-Syllabus
-======
+### Syllabus
+
 | Chapter | Contents | Class hours |
 | :--------: | :--------: | :--------: |
 | Introduction | What is computer animations?<br>Why study computer animations?<br>Course topics, Course logistics | 1 |
@@ -40,8 +40,8 @@ Syllabus
 | Quiz | Final Quiz | 2 |
 | Final Project Presentation | Final Project Presentation | 3 |
 
-Test
-======
+### Test
+
 | Entry            | Item   |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
 | [John Doe](#)    | 2016   | Description of the item in the list                          |
