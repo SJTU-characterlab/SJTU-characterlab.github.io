@@ -26,7 +26,7 @@ Syllabus
 | :--------: | :--------: | :--------: |
 | Introduction | What is computer animations?<br>Why study computer animations?<br>Course topics, Course logistics | 1 |
 | Graphic pipeline | primitives, pixel, vertices, coordinates systems<br>Visibility: painter’s algorithm, z-buffer algorithm | 2 |
-| Transformation | Basic transformation: rotation, scale, shear, homogenous coordinates<br>Composition and decomposition, 3D transformation<br>Viewing & Projection transformation | 3 |
+| Transformation | Basic transformation: rotation, scale, shear, homogenous coordinates<br>composition and decomposition, 3D transformation<br>Viewing & Projection transformation | 3 |
 | Shading Basics | Shading model: Gooch model<br>Light source<br>Aliasing and Antialiasing<br>Transparency | 3 |
 | Texturing | Texturing pipeline<br>Image texturing: magnification, minification<br>Procedural texturing<br>Material Mapping, Alpha Mapping<br>Bump Mapping<br>Parallax Mapping<br>Other Application | 3 |
 | Shadow | Hard/Soft Shadow<br>Shadow Volumes<br>Shadow Mapping | 3 |
