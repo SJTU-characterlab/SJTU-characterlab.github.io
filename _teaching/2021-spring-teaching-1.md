@@ -21,9 +21,7 @@ The main contents of this course include: Introduction to Computer Graphics, Ren
 Prerequisites: Linear Algebra, Advanced Mathematics, Algorithms, Data Structure, Probability Theory, etc.
 
 Syllabus
-======
-
-###  
+====== 
 
 | Chapter | Contents | Class hours |
 | :--------: | :--------: | :--------: |
