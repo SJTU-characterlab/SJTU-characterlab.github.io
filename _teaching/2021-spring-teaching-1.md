@@ -23,7 +23,7 @@ Prerequisites: Linear Algebra, Advanced Mathematics, Algorithms, Data Structure,
 Syllabus
 ======
 | Chapter | Contents | Class hours |
-| --------         | ------ | ------------------------------------------------------------ |
+| :--------: | :--------: | :--------: |
 | Introduction | What is computer animations?<br>Why study computer animations?<br>Course topics, Course logistics| 1 |
 | [Jane Doe](#)    | 2019   | Description of the item in the list                          |
 | [Doe Doe](#)     | 2022   | Description of the item in the list                          |
