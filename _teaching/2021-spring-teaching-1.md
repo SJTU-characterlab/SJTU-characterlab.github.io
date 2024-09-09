@@ -8,7 +8,7 @@ date: 2021-09-13
 location: "City, Country"
 ---
 
-CS7306
+2021-09 ~ 2022-01, CS7306
 
 Course Description
 ======
@@ -20,7 +20,10 @@ The main contents of this course include: Introduction to Computer Graphics, Ren
 
 Prerequisites: Linear Algebra, Advanced Mathematics, Algorithms, Data Structure, Probability Theory, etc.
 
-### Syllabus
+Syllabus
+======
+
+###  
 
 | Chapter | Contents | Class hours |
 | :--------: | :--------: | :--------: |
@@ -39,11 +42,3 @@ Prerequisites: Linear Algebra, Advanced Mathematics, Algorithms, Data Structure,
 | Animation | Keyframe Animation, Physical Simulation, Mass Spring<br>System, Kinematics, Motion Capture | 3 |
 | Quiz | Final Quiz | 2 |
 | Final Project Presentation | Final Project Presentation | 3 |
-
-### Test
-
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
