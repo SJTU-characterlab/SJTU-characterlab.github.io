@@ -40,3 +40,17 @@ Syllabus
 | Animation | Keyframe Animation, Physical Simulation, Mass Spring<br>System, Kinematics, Motion Capture | 3 |
 | Quiz | Final Quiz | 2 |
 | Final Project Presentation | Final Project Presentation | 3 |
+
+Course Requirements
+====== 
+Attendance: 20%
+
+Quiz: 40%
+
+Final Project: 40%
+
+Course Resources
+====== 
+Akenine-Moller T, Haines E, Hoffman N. Real-time rendering. AK Peters/CRC Press, 2018.
+
+Marschner S, Shirley P. Fundamentals of computer graphics. CRC Press, 2015.
