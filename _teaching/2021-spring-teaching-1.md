@@ -31,7 +31,7 @@ Syllabus
 | Texturing | Texturing pipeline<br>Image texturing: magnification, minification<br>Procedural texturing<br>Material Mapping, Alpha Mapping<br>Bump Mapping<br>Parallax Mapping<br>Other Application | 3 |
 | Shadow | Hard/Soft Shadow<br>Shadow Volumes<br>Shadow Mapping | 3 |
 | Local Illumination | Blinn-Phong Reflectance Model: Diffuse Reflection<br>Specular Shading<br>Ambient Shading<br>Flat Shading, Gourand Shading, Phong Shading | 6 |
-| Geometry | Explicit /Implicit Representation<br>Bezier Curves & Bezier Surfaces<br>Mesh and Mesh Operartion<br>Catmull-Clark Subdivision<br>Tessellation & Triangulation | 6 |
+| Geometry | Explicit/Implicit Representation<br>Bezier Curves & Bezier Surfaces<br>Mesh and Mesh Operartion<br>Catmull-Clark Subdivision<br>Tessellation & Triangulation | 6 |
 | Ray Tracing | Why ray tracing?<br>Whitted-style ray tracing<br>Ray-object intersection<br>Axis-Aligned Bounding Boxes<br>Accelerate ray tracing<br>Radiometry, BRDF<br>The rendering equation<br>Global illumination | 6 |
 | Path Tracing | Monte Carlo integration<br>Path Tracing | 3 |
 | Material & Appearance | Material==BRDF<br>Microfacet Material<br>Measuring BRDFs | 2 |
